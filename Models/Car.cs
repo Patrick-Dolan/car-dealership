@@ -23,14 +23,14 @@ namespace CarDealership.Models
       return _instances;
     }
 
-    // public bool WorthBuying(int maxPrice)
-    // {
-    //   return (Price <= maxPrice);
-    // }
+    public bool WorthBuying(int maxPrice)
+    {
+      return (Price <= maxPrice);
+    }
 
-    // public static string MakeSound(string sound)
-    // {
-    //   return "Our cars sound like " + sound;
-    // }
+    public static string MakeSound(string sound)
+    {
+      return "Our cars sound like " + sound;
+    }
   }
 }
