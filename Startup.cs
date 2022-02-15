@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Dealership
+namespace CarDealership
 {
   public class Startup
   {
@@ -36,7 +36,7 @@ namespace Dealership
 
       app.Run(async (context) =>
       {
-        await context.Response.WriteAsync("Hello World!");
+        await context.Response.WriteAsync("BOO 👻");
       });
     }
   }

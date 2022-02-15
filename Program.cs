@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Dealership.Models;
+using CarDealership.Models;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Dealership
+namespace CarDealership
 {
   public class Program
   {
@@ -18,5 +18,6 @@ namespace Dealership
         .Build();
 
       host.Run();
+    }
   }
 }

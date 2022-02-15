@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\PreWork\\car-dealership\\CarDealership.csproj": {}
+    "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 3-4\\car-dealership\\CarDealership.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\PreWork\\car-dealership\\CarDealership.csproj": {
+    "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 3-4\\car-dealership\\CarDealership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\PreWork\\car-dealership\\CarDealership.csproj",
+        "projectUniqueName": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 3-4\\car-dealership\\CarDealership.csproj",
         "projectName": "CarDealership",
-        "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\PreWork\\car-dealership\\CarDealership.csproj",
+        "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 3-4\\car-dealership\\CarDealership.csproj",
         "packagesPath": "C:\\Users\\dolan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\PreWork\\car-dealership\\obj\\",
+        "outputPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 3-4\\car-dealership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dolan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,6 +48,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

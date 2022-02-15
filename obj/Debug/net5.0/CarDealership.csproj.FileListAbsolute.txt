@@ -14,3 +14,36 @@ C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\ob
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\ref\CarDealership.dll
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.pdb
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.csprojAssemblyReference.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfo.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.RazorAssemblyInfo.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.RazorAssemblyInfo.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\ref\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\staticwebassets\CarDealership.StaticWebAssets.Manifest.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\staticwebassets\CarDealership.StaticWebAssets.xml
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\scopedcss\bundle\CarDealership.styles.css
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.TagHelpers.input.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.TagHelpers.output.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.RazorCoreGenerate.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.RazorTargetAssemblyInfo.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.RazorTargetAssemblyInfo.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.exe
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.deps.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.dev.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\ref\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.Views.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\bin\Debug\net5.0\CarDealership.Views.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.Views.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\CarDealership.csproj.CopyComplete
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week 3-4\car-dealership\obj\Debug\net5.0\Razor\Views\Home\CreateForm.cshtml.g.cs
