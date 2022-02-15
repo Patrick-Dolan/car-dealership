@@ -1,0 +1,16 @@
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.csprojAssemblyReference.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.AssemblyInfo.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.exe
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.deps.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.runtimeconfig.dev.json
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\ref\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\bin\Debug\net5.0\CarDealership.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\ref\CarDealership.dll
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.pdb
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\PreWork\car-dealership\obj\Debug\net5.0\CarDealership.genruntimeconfig.cache
